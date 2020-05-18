@@ -30,7 +30,7 @@ The problem is to build a model that predicts whether a customer will respond to
 
 ## Blog Post
 
-Blog post about this project can be found on [Medium]()
+Blog post about this project can be found on [Medium](https://medium.com/@marizu_makozi/starbucks-project-customer-offer-success-prediction-70937c3c8301)
 
 ## Libraries
 
@@ -40,7 +40,7 @@ Blog post about this project can be found on [Medium]()
 - Scikit-learn: Machine Learning in Python
 - Seaborn: Statistical Data Visualization
 - re: Regular expression operations
-- os — Miscellaneous operating system interfaces
+- os: Miscellaneous operating system interfaces
 - Joblib: running Python functions as pipeline jobs
 
 ## Installation
