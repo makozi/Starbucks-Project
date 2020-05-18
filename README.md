@@ -10,7 +10,7 @@ This is the link to the [dataset](https://github.com/makozi/Starbucks-Project/tr
 
 This data set contains three files:
 
-* The first file describes the characteristics of each offer, including its duration and the amount a customer needs to spend to complete it (difficulty).
+* The first file describes the characteristics of each offer, including its duration and the amount a customer needs to spend to complete it .
 
 * The second file contains customer demographic data including their age, gender, income, and when they created an account on the Starbucks rewards mobile application.
 
@@ -28,6 +28,10 @@ The problem is to build a model that predicts whether a customer will respond to
 
 * Refining the parameters of the model that has the highest accuracy and F1-score.  
 
+## Blog Post
+
+Blog post about this project can be found on [Medium](https://medium.com/@marizu_makozi/starbucks-project-customer-offer-success-prediction-70937c3c8301)
+
 ## Libraries
 
 - Python Data Analysis Library
@@ -36,7 +40,7 @@ The problem is to build a model that predicts whether a customer will respond to
 - Scikit-learn: Machine Learning in Python
 - Seaborn: Statistical Data Visualization
 - re: Regular expression operations
-- os — Miscellaneous operating system interfaces
+- os: Miscellaneous operating system interfaces
 - Joblib: running Python functions as pipeline jobs
 
 ## Installation
