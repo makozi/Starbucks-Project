@@ -10,7 +10,7 @@ This is the link to the [dataset](https://github.com/makozi/Starbucks-Project/tr
 
 This data set contains three files:
 
-* The first file describes the characteristics of each offer, including its duration and the amount a customer needs to spend to complete it (difficulty).
+* The first file describes the characteristics of each offer, including its duration and the amount a customer needs to spend to complete it .
 
 * The second file contains customer demographic data including their age, gender, income, and when they created an account on the Starbucks rewards mobile application.
 
@@ -27,6 +27,10 @@ The problem is to build a model that predicts whether a customer will respond to
 * Comparing the performance of [logistic regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc), [random forest](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd), and [gradient boosting](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/) models. 
 
 * Refining the parameters of the model that has the highest accuracy and F1-score.  
+
+## Blog Post
+
+Blog post about this project can be found on [Medium]()
 
 ## Libraries
 
